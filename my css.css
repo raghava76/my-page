@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Tangerine', Helvetica, Arial, sans-serif;
+}
+
+h1{
+    margin-top: 0px;
+    width: auto;
+    margin: 0 auto;
+    font-family: 'Tangerine', Helvetica, Arial, sans-serif;
+    font-size: 562.5%;
+}
+
+.top-container{
+    margin-top: 0px;
+    background-color: #d0ebda;
+    position: relative;
+    padding-top: 100px;
+    font-family: Helvetica, Arial, sans-serif;
+    word-spacing: 4px;
+}
+
+.middle-container{
+    background-color: #D4ECDD;
+    position: relative;
+    padding-top: 100px;
+    font-family: Helvetica, Arial, sans-serif;
+    word-spacing: 4px;
+}
+
+.bottom-container{
+    margin-top: 0px;
+    background-color: #A9E4D7;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-family: Helvetica, Arial, sans-serif;
+    word-spacing: 4px;
+}
+
